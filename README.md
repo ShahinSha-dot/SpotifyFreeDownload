@@ -12,6 +12,7 @@
  * create a spotify developer account by going here [spotify developer](https://developer.spotify.com/)
  * create a new app
  * get the client id and client secret id
+ ![spotify](https://drive.google.com/file/d/1dqfQP8UoIov6I_VHJSCwr3dWjmkdiXDd/view?usp=sharing)
 
 # steps:
  * open spotify
