@@ -23,7 +23,7 @@ def getTrackIDs(user, playlist_id):
     return ids
 
 playlist =  str(input('enter playlist id : '))
-playlist =  str(input('enter name of your playlist : '))
+name =  str(input('enter name of your playlist : '))
 items = getTrackIDs(name,playlist)
 
 
