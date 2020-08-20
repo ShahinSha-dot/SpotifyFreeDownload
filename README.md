@@ -9,7 +9,7 @@
 ## this python programme download all song in spotify playlist
 
 # what you need in order for this project to work:
- * create a spotify developer account by going here [spotify developer] (https://developer.spotify.com/)
+ * create a spotify developer account by going here [spotify developer](https://developer.spotify.com/)
  * create a new app
  * get the client id and client secret id
 
