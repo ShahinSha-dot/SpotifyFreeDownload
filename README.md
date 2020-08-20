@@ -21,7 +21,8 @@
  * provide it with client id and client secret which got from spotify developer account earlier
  * provide playlist uri which you copied earlier
 
-## Thats all your entire playlist will be downloaded in your local storage
+## Thats all 
+## Your entire playlist will be downloaded in your local storage
 
-### Thak you
+### Thank you
 ### Please star the repo
