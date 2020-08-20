@@ -3,7 +3,7 @@
 ## hello there
 
 ### After 3 days of coding i have finished spotify downloader.
-> Everone who supported me in this project I owe you guys deeply </ br>
+> For everone who supported me in this project I owe you guys deeply and
 > thank you **CODESHARK**
 
 ## this python programme download all song in spotify playlist
